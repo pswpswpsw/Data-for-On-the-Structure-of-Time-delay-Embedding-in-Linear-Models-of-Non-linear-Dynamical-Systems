@@ -1,2 +1,6 @@
-# 2020_Time_Delay_Paper_Rayleigh-Benard
-This is a collection of the turbulent Rayleigh Benard convection data used in the maurscript. 
+# Description
+
+The data is collected by solving 3D incompressible N-S equation in OpenFOAM
+
+Physical parameters:
+- $Ra=10^7$.
