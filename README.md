@@ -6,3 +6,8 @@ Physical parameters:
 - Ra = 10^7
 - Pr = 1.0
 
+
+# Data sets
+
+Here are the POD coefficients in the mat file format with different truncations to illustrate the trend of "optimal" delay in the paper.
+
